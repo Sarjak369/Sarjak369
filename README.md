@@ -9,6 +9,6 @@
 
 
 - 📫 How to reach me: sm2732@scarletmail.rutgers.edu
-- 🌱 I’m aspire to becomea Data Scientist
+- 🌱 I aspire to become a Data Scientist
 - 👯 I’m looking to collaborate for Data Science projects
 
