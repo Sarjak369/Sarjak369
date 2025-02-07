@@ -7,24 +7,22 @@ This fuels my commitment to lifelong learning and professional growth."
 
 ---
 
-<div>
-  <p align="left">
-    <img align="right" src="https://user-images.githubusercontent.com/56110199/220014646-a1a14738-6782-42c3-8c60-e4a62c478ec4.gif" width="350" alt="GIF showing coding illustration">
-  </p>
+---
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    ## **👨‍💻 About Me**
+    - 🎓 Graduated with a **Master's in Information Technology & Analytics** from **Rutgers University.**  
+    - 💼 Currently working as a **Research Data Scientist** at **Behavioral Informatics Labs.**
+    - 🔍 Actively seeking **full-time opportunities** in **Data Science**, and **Machine Learning** roles.  
+    - 🤝 Open to **collaborating** on innovative **Data Science projects**.
+  </div>
+  <div style="margin-left: 20px;">
+    <img src="https://user-images.githubusercontent.com/56110199/220014646-a1a14738-6782-42c3-8c60-e4a62c478ec4.gif" width="300" alt="GIF showing coding illustration">
+  </div>
 </div>
 
-
 ---
-
-## **👨‍💻 About Me**
-
-- 🎓 Graduated with a **Master's in Information Technology & Analytics** from **Rutgers University.**  
-- 💼 Currently working as a **Research Data Scientist** at **Behavioral Informatics Labs.**
-- 🔍 Actively seeking **full-time opportunities** in **Data Science**, and **Machine Learning** roles.  
-- 🤝 Open to **collaborating** on innovative **Data Science projects**.
-
----
-
 ## **🔧 Tools & Technologies**
 <div>
 <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
