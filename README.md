@@ -1,28 +1,25 @@
 # **Hello World 👋, I'm Sarjak Maniar**
 
-🌟 **Research Data Scientist | Lifelong Learner | Data Enthusiast**  
+🌟 **Data Scientist | Lifelong Learner | Data Enthusiast**  
+
 "Anthony J. D'Angelo resonates with me and is the guiding principle of my life:  
 **'Develop a passion for learning. If you do, you will never cease to grow.'**  
 This fuels my commitment to lifelong learning and professional growth."
 
----
+<div>
 
----
+## **👨‍💻 About Me**
 
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
-    ## **👨‍💻 About Me**
-    - 🎓 Graduated with a **Master's in Information Technology & Analytics** from **Rutgers University.**  
-    - 💼 Currently working as a **Research Data Scientist** at **Behavioral Informatics Labs.**
-    - 🔍 Actively seeking **full-time opportunities** in **Data Science**, and **Machine Learning** roles.  
-    - 🤝 Open to **collaborating** on innovative **Data Science projects**.
-  </div>
-  <div style="margin-left: 20px;">
-    <img src="https://user-images.githubusercontent.com/56110199/220014646-a1a14738-6782-42c3-8c60-e4a62c478ec4.gif" width="300" alt="GIF showing coding illustration">
-  </div>
+<img src="https://user-images.githubusercontent.com/56110199/220014646-a1a14738-6782-42c3-8c60-e4a62c478ec4.gif" width="350" alt="GIF showing coding illustration">
+
+- 🎓 Graduated with a **Master's in Information Technology & Analytics** from **Rutgers University.**  
+- 💼 Currently working as a **Research Data Scientist** at **Behavioral Informatics Labs.**
+- 🔍 Actively seeking **full-time opportunities** in **Data Science**, and **Machine Learning** roles.  
+- 🤝 Open to **collaborating** on innovative **Data Science projects**.
+  
 </div>
 
----
+
 ## **🔧 Tools & Technologies**
 <div>
 <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
