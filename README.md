@@ -77,6 +77,11 @@ This fuels my commitment to lifelong learning and professional growth."
 - Forecasted inventory demand using **Prophet** and **LSTM**, reducing stockouts by **17%**.  
 - Improved delivery speed by **20%** with SQL analysis and **Tableau dashboards**.
 
+### **Leo9 Studio**  
+**Data Science Analyst** | Aug 2021 – Jul 2022  
+- Segmented customers using **Hierarchical Clustering**, improving targeted marketing and engagement.
+- Led **A/B testing** and cohort analysis, boosting conversion by **20%** and customer growth by **10%**.
+
 ---
 
 ## **🎓 Education**
