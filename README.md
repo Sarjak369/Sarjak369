@@ -5,9 +5,13 @@
 **'Develop a passion for learning. If you do, you will never cease to grow.'**  
 This fuels my commitment to lifelong learning and professional growth."
 
+---
 
-<img align="right" width="380" height="250" src="https://user-images.githubusercontent.com/56110199/220014646-a1a14738-6782-42c3-8c60-e4a62c478ec4.gif">
-
+<div>
+  <p align="left">
+    <img align="right" src="https://user-images.githubusercontent.com/56110199/220014646-a1a14738-6782-42c3-8c60-e4a62c478ec4.gif" width="350" alt="GIF showing coding illustration">
+  </p>
+</div>
 
 
 ---
