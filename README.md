@@ -12,6 +12,7 @@ This fuels my commitment to lifelong learning and professional growth."
 
 <img src="https://user-images.githubusercontent.com/56110199/220014646-a1a14738-6782-42c3-8c60-e4a62c478ec4.gif" width="350" alt="GIF showing coding illustration">
 
+
 - 🎓 Graduated with a **Master's in Information Technology & Analytics** from **Rutgers University.**  
 - 💼 Currently working as a **Research Data Scientist** at **Behavioral Informatics Labs.**
 - 🔍 Actively seeking **full-time opportunities** in **Data Science**, and **Machine Learning** roles.  
@@ -45,7 +46,7 @@ This fuels my commitment to lifelong learning and professional growth."
 - Built a **hybrid framework** combining **Regex**, **DBSCAN**, and **LLMs (Llama)** to classify logs.
 - Achieved **40% higher accuracy** over traditional systems, reducing operational costs by **30%**.
 
-### **[JobReachAI](https://github.com/Sarjak369/JobReachAI)**
+### **[JobReachAI](https://github.com/Sarjak369/cold_email_generator_Llama3.1)**
 - Developed an **AI-powered Cold Email Generator** using **LangChain** and **LLMs**.
 - Automated outreach for software services companies, streamlining business development.
 
