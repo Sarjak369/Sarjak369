@@ -42,7 +42,7 @@ This fuels my commitment to lifelong learning and professional growth."
 
 ## **📂 Featured Projects**
 
-### **[LogSenseAI]**
+### **LogSenseAI**
 - Built a **hybrid framework** combining **Regex**, **DBSCAN**, and **LLMs (Llama)** to classify logs.
 - Achieved **40% higher accuracy** over traditional systems, reducing operational costs by **30%**.
 
