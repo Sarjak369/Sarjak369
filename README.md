@@ -62,7 +62,7 @@ This fuels my commitment to lifelong learning and professional growth."
 
 ## **💼 Professional Experience**
 
-### **Behavioral Informatics Labs**  
+### **Behavioral Informatics Lab**  
 **Data Science Research Assistant** | Feb 2024 – Feb 2025  
 - Evaluated **BlueBERT** and other healthcare AI models, achieving **92.79% baseline accuracy** on medical abstracts.  
 - Designed text perturbations for clinical data, enhancing model robustness in real-world scenarios.
