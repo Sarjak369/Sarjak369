@@ -52,19 +52,20 @@ Every project gets a blend of **engineering rigor**, **technical innovation**, a
 
 <p align="center">
   <!-- ML & Data -->
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy icons"/>
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy&perline=8" alt="ML & Data"/>
   <!-- APIs & Apps -->
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit&perline=8" alt="FastAPI, Flask, Streamlit icons"/>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit&perline=8" alt="APIs & Apps"/>
   <!-- MLOps & Cloud -->
-  <img src="https://skillicons.dev/icons?i=docker,aws,azure,git,linux,postgresql,mongodb&perline=8" alt="Docker, AWS, Azure, Git, Linux, PostgreSQL, MongoDB icons"/>
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,git,linux,postgresql,mongodb&perline=8" alt="MLOps & Cloud"/>
 </p>
 
-<!-- Custom badges for things without skillicons -->
+<!-- Custom badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-F3722C?style=for-the-badge" alt="LangChain"/>
   <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge" alt="FAISS"/>
   <img src="https://img.shields.io/badge/PGVector-336791?style=for-the-badge" alt="PGVector"/>
 </p>
+
 
 
 ---
@@ -138,18 +139,18 @@ Productionized experimentation workflow.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sarjak369&show_icons=true&theme=transparent" height="150" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarjak369&layout=compact&theme=transparent&hide=jupyter%20notebook,html" height="150" alt="Top Languages"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarjak369&theme=transparent&hide_border=true" height="150" alt="GitHub Streak Stats"/>
 </p>
 
+<!-- Optional streak card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarjak369&layout=compact&theme=transparent" height="150" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=Sarjak369&theme=transparent&hide_border=true" height="150" alt="GitHub Streak Stats"/>
 </p>
 
-
-<!-- fun snake graph -->
+<!-- Fun snake graph -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake graph"/>
 </p>
+
 
 ---
 
