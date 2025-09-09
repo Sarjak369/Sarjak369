@@ -50,9 +50,22 @@ Every project gets a blend of **engineering rigor**, **technical innovation**, a
 **APIs & Apps:** FastAPI • Flask • Streamlit • REST • JSON/UUID workflows  
 **MLOps & Cloud:** Docker • AWS (EC2, S3, Lambda) • Azure • CI basics • Git discipline
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,flask,streamlit,docker,aws,azure,postgresql,mongodb,git,linux&perline=8" alt="skill icons">
+<p align="center">
+  <!-- ML & Data -->
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy&perline=8" alt="Python, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy icons"/>
+  <!-- APIs & Apps -->
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,streamlit&perline=8" alt="FastAPI, Flask, Streamlit icons"/>
+  <!-- MLOps & Cloud -->
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,git,linux,postgresql,mongodb&perline=8" alt="Docker, AWS, Azure, Git, Linux, PostgreSQL, MongoDB icons"/>
 </p>
+
+<!-- Custom badges for things without skillicons -->
+<p align="center">
+  <img src="https://img.shields.io/badge/LangChain-F3722C?style=for-the-badge" alt="LangChain"/>
+  <img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/PGVector-336791?style=for-the-badge" alt="PGVector"/>
+</p>
+
 
 ---
 
@@ -123,13 +136,15 @@ Productionized experimentation workflow.
 ## 📊 GitHub at a Glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarjak369&show_icons=true&theme=transparent" height="150" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarjak369&theme=dark&hide_border=true" height="150" alt="streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarjak369&show_icons=true&theme=transparent" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarjak369&layout=compact&theme=transparent&hide=jupyter%20notebook,html" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sarjak369&theme=transparent&hide_border=true" height="150" alt="GitHub Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarjak369&layout=compact&theme=transparent" height="150" alt="top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarjak369&layout=compact&theme=transparent" height="150" alt="Top Languages"/>
 </p>
+
 
 <!-- fun snake graph -->
 <p align="center">
