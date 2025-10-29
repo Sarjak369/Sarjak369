@@ -144,10 +144,6 @@ Productionized experimentation workflow.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarjak369&layout=compact&theme=transparent&hide=jupyter%20notebook,html" height="150" alt="Top Languages"/>
 </p>
 
-<!-- Optional streak card -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sarjak369&theme=transparent&hide_border=true" height="150" alt="GitHub Streak Stats"/>
-</p>
 
 <!-- Fun snake graph -->
 <p align="center">
