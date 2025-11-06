@@ -175,7 +175,9 @@ Predictive CTR modeling + **Flask** app for real-time scoring
 
 ## 🤝 Let’s Build
 
-**Email:** sarjakm369@gmail.com • **LinkedIn:** /in/Sarjak369
+**Email:** sarjakm369@gmail.com 
+
+**LinkedIn:** https://www.linkedin.com/in/sarjak369/
 
 ---
 
