@@ -3,12 +3,12 @@
 
 # 👋 Hello World — I'm **Sarjak Maniar**
 
-**AI Engineer & Data Scientist** • **Generative & Agentic AI** • **Datacated** (data-driven + dedicated)  
+**AI Data Scientist** • **Datacated** (data-driven + dedicated)  
 **Curious & Impact-Driven** — translating complexity into clear, useful systems.
 
 <!-- Typing effect -->
 <a href="https://github.com/Sarjak369">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+Vector+Search+%E2%80%A2+Prompt+Engineering;ML+Systems+that+ship%2C+scale%2C+and+do+real+work;Lifelong+learner+%E2%80%94+build%2C+measure%2C+iterate" alt="typing animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3300&pause=900&center=true&vCenter=true&width=720&lines=Data+Science+%E2%80%A2+ML+Systems+%E2%80%A2+Experimentation;Vector+Search+%E2%80%A2+RAG+%E2%80%A2+Prompt+Engineering;Build+what+works...and+measures+better+over+time" alt="typing animation">
 </a>
 
 <!-- Subtle AI gif -->
@@ -27,6 +27,7 @@
 
 > *“Develop a passion for learning. If you do, you will never cease to grow.”* — **Anthony J. D’Angelo**
 
+I turn **data** into **decisions** and **models** into **products**.  
 I build tools that **not only work, but elevate outcomes** through clear thinking, collaboration, and continuous improvement.  
 Every project gets a blend of **engineering rigor**, **technical innovation**, and **strategic communication**.
 
@@ -36,19 +37,19 @@ Every project gets a blend of **engineering rigor**, **technical innovation**, a
 
 - 🎓 **M.S. — Information Technology & Analytics**, Rutgers University (GPA 3.7)  
 - 🧪 **Research Data Scientist (Healthcare AI)** — robustness & reliability studies (BlueBERT, LLMs)  
-- 🧭 **AI Engineer** — agentic workflows, RAG pipelines, and domain-aware automation  
-- 🧩 I’m **Datacated** — data-driven, dedicated, and **curiosity-powered**  
-- 🤝 Open to **full-time roles** in AI Engineering / Data Science and **open-source collabs**
+- 🧭 **Applied ML/AI** — DS experiments → productionized insights; RAG & retrieval quality
+- 🧩 **Datacated** — data-driven, dedicated, and permanently curious
+- 🤝 Open to **AI Data Scientist / ML Engineer** roles and **open-source collabs**
 
 ---
 
 ## 🧰 Core Skills (what I actually use)
 
-**Agentic & Generative AI:** Prompt Engineering • Multi-Agent Orchestration • Evaluation  
-**Retrieval & Search:** RAG • Vector DBs (PGVector, FAISS, Chroma) • Indexing & Relevance  
-**ML & Data:** Python • PyTorch • TensorFlow • scikit-learn • Pandas • Experimentation  
+**Data Science & Analytics:** Python • Pandas • NumPy • scikit-learn • Statsmodels • Experiment design  
+**Machine Learning & AI:** PyTorch • TensorFlow • Classical ML • Evaluation • HuggingFace
+**Retrieval & Gen/Agentic AI:** RAG • Vector DBs (PGVector, FAISS, Chroma) • LangChain/LangGraph • Prompt Engineering  
 **APIs & Apps:** FastAPI • Flask • Streamlit • REST • JSON/UUID workflows  
-**MLOps & Cloud:** Docker • AWS (EC2, S3, Lambda) • Azure • CI basics • Git discipline
+**MLOps & Cloud:** Docker • AWS (EC2, S3, Lambda) • Azure • DVC • GitHub Actions (CI/CD) • Git discipline
 
 <p align="center">
   <!-- ML & Data -->
@@ -76,19 +77,17 @@ Every project gets a blend of **engineering rigor**, **technical innovation**, a
 <tr>
 <td align="center" width="50%">
 
-### 🔎 LogSenseAI  
-Hybrid log intelligence (Regex + DBSCAN + Transformers + LLMs).  
-**+40% accuracy** vs rule systems • **–30% op cost**.  
-<a href="https://github.com/Sarjak369/LogSenseAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarjak369&repo=LogSenseAI&theme=transparent" alt="LogsenseAI card">
-</a>
+### 🔎 LogSenseAI *(Private Repo)*
+Hybrid log intelligence (**Regex + DBSCAN + Transformers + LLMs**)  
+**+40% accuracy** vs rule systems • **–30% op cost**  
+<sub>Demo available on request</sub>
 
 </td>
 <td align="center" width="50%">
 
-### ✉️ JobReachAI  
-LLM-powered cold outreach using **RAG + Streamlit**.  
-Auto-maps JD → portfolio → tailored emails.  
+### ✉️ JobReachAI
+LLM-powered outreach using **RAG + Streamlit**  
+Auto-maps JD → portfolio → tailored emails  
 <a href="https://github.com/Sarjak369/cold_email_generator_Llama3.1">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarjak369&repo=cold_email_generator_Llama3.1&theme=transparent" alt="JobReachAI card">
 </a>
@@ -98,9 +97,9 @@ Auto-maps JD → portfolio → tailored emails.
 <tr>
 <td align="center" width="50%">
 
-### 🩺 ThyroPredict  
-Multi-class thyroid classifier (KNN/XGB) • hosted on **AWS EC2**.  
-ROC-AUC up to **0.98** (cluster-aware).  
+### 🩺 ThyroPredict
+Multi-class thyroid classifier (KNN/XGB) • **AWS EC2**  
+ROC-AUC up to **0.98** (cluster-aware)  
 <a href="https://github.com/Sarjak369/ThyroPredict">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarjak369&repo=ThyroPredict&theme=transparent" alt="ThyroPredict card">
 </a>
@@ -108,9 +107,8 @@ ROC-AUC up to **0.98** (cluster-aware).
 </td>
 <td align="center" width="50%">
 
-### 📈 AdClickOptimizer  
-Predictive CTR modeling + **Flask** app for real-time scoring.  
-Productionized experimentation workflow.  
+### 📈 AdClickOptimizer
+Predictive CTR modeling + **Flask** app for real-time scoring  
 <a href="https://github.com/Sarjak369/AdClickOptimizer">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarjak369&repo=AdClickOptimizer&theme=transparent" alt="AdClickOptimizer card">
 </a>
@@ -125,12 +123,13 @@ Productionized experimentation workflow.
 
 ## 💼 Professional Experience (snapshot)
 
-**XNODE Inc. — AI Engineer**  
-• Built multi-agent workflow builder (agentic + LangGraph style), cutting request-to-execution **–60%**.  
-• RAG pipelines with **PGVector** for SharePoint/Jira — roadmap planning from **days → hours**.
+**XNODE Inc. — AI Engineer (Mar–Aug 2025)**  
+• Built a multi-agent **workflow builder** (LangChain/LangGraph), cutting request-to-execution **–60%**.  
+• RAG pipelines with **PGVector** for SharePoint/Jira — roadmap planning from **days → hours**.  
+• Auto-synced Jira/ADO (Epics→Stories→Tasks), improving sprint readiness **+30%**.
 
-**Behavioral Informatics Lab — Research Data Scientist**  
-• Benchmarked **BlueBERT** & LLMs on medical texts (robustness under real-world noise).  
+**Behavioral Informatics Lab — Research Data Scientist (Feb 2024–Feb 2025)**  
+• Benchmarked **BlueBERT** & LLMs on clinical text; tested robustness under real-world noise.  
 • Designed perturbations (typos, homophones, removals) to evaluate reliability.
 
 *(More roles in LinkedIn)*
@@ -160,8 +159,19 @@ Productionized experimentation workflow.
 
 ---
 
+## 🧭 My working principles
+
+- Roots before rockets: core statistical thinking and traditional ML remain essential. I use LLMs where they add leverage—not as a default
+- AI as an amplifier: the win is better problem framing, faster iteration, and clearer decisions—not replacing experts
+- Measure > magic: ship, measure, iterate. If it doesn’t move a metric, it’s a demo
+
+---
+
 ## 🤝 Let’s Build
-If you’re crafting **AI-driven systems with integrity**, I’d love to collaborate.  
+
 **Email:** sarjakm369@gmail.com • **LinkedIn:** /in/Sarjak369
 
 ---
+
+#### AI isn’t replacing data scientists—it’s redefining us.
+#### I treat AI as a force multiplier on top of solid DS/ML foundations: better problem framing, faster experiments, and more aligned outcomes.
