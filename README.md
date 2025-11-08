@@ -21,6 +21,10 @@
   <a href="https://github.com/Sarjak369?tab=repositories"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Repos-24292f?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+<p>
+  <a href="https://sarjak369.github.io/portfolio/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-sarjak369.github.io-2e7d32?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>
+
 </div>
 
 ---
