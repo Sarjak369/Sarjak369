@@ -148,11 +148,6 @@ Predictive CTR modeling + **Flask** app for real-time scoring
 
 ## 📊 GitHub at a Glance
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarjak369&show_icons=true&theme=transparent" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarjak369&layout=compact&theme=transparent&hide=jupyter%20notebook,html" height="150" alt="Top Languages"/>
-</p>
-
 
 <!-- Fun snake graph -->
 <p align="center">
