@@ -94,9 +94,7 @@ Hybrid log intelligence (**Regex + DBSCAN + Transformers + LLMs**)
 LLM-powered outreach using **RAG + Streamlit**  
 Auto-maps JD → portfolio → tailored emails  
 
-<a href="https://github.com/Sarjak369/cold_email_generator_Llama3.1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarjak369&repo=cold_email_generator_Llama3.1&theme=transparent" alt="JobReachAI card">
-</a>
+<a href="https://github.com/Sarjak369/cold_email_generator_Llama3.1">Github Link</a>
 
 </td>
 </tr>
@@ -107,9 +105,7 @@ Auto-maps JD → portfolio → tailored emails
 Multi-class thyroid classifier (KNN/XGB) • **AWS EC2**  
 ROC-AUC up to **0.98** (cluster-aware)  
 
-<a href="https://github.com/Sarjak369/ThyroPredict">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarjak369&repo=ThyroPredict&theme=transparent" alt="ThyroPredict card">
-</a>
+<a href="https://github.com/Sarjak369/ThyroPredict">Github Link</a>
 
 </td>
 <td align="center" width="50%">
@@ -117,9 +113,7 @@ ROC-AUC up to **0.98** (cluster-aware)
 ### 📈 AdClickOptimizer
 Predictive CTR modeling + **Flask** app for real-time scoring  
 
-<a href="https://github.com/Sarjak369/AdClickOptimizer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarjak369&repo=AdClickOptimizer&theme=transparent" alt="AdClickOptimizer card">
-</a>
+<a href="https://github.com/Sarjak369/AdClickOptimizer">Github Link</a>
 
 </td>
 </tr>
