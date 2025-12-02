@@ -85,9 +85,7 @@ Every project gets a blend of **engineering rigor**, **technical innovation**, a
 Hybrid log intelligence (**Regex + DBSCAN + Transformers + LLMs**)  
 **+40% accuracy** vs rule systems • **–30% op cost**  
 
-<a href="https://github.com/Sarjak369/LogSenseAI">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sarjak369&repo=LogSenseAI&theme=transparent" alt="LogSenseAI card">
-</a>
+<a href="https://github.com/Sarjak369/LogSenseAI">Github Link</a>
 
 </td>
 <td align="center" width="50%">
